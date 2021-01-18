@@ -1,1 +1,0 @@
-/home/tomas/stm32f4Discovery/projects/extraction_of_bits/exercise_extraction_of_bits.c
